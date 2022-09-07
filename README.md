@@ -6,7 +6,7 @@
 
 My note on Feature Engineering for Machine Learning course
 
-Skill: `Machine Learning`, `Feature Engineering`
+Skill: `Machine Learning`, `Feature Engineering`, `Feature-Engine`, `Scikit-Learn`
 
 [<img src="./feml_logo.png" width="248">](https://www.courses.trainindata.com/p/feature-engineering-for-machine-learning)
 
